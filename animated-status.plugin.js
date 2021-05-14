@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","source":"https://raw.githubusercontent.com/ShardJuz135/Discord-Code/main/animated-status.plugin.js","website":"https://github.com/toluschr/BetterDiscord-Animated-Status"}*//
+//META{"name":"AnimatedStatus","source":"https://raw.githubusercontent.com/ShardJuz135/Discord-Code/main/animated-status.plugin.js","website":"https://github.com/ShardJuz135/Discord-Code"}*//
 
 const Editor_Type = {
 	RICH: 0,
