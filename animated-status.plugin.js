@@ -1,3 +1,5 @@
+//META{"name":"AnimatedStatus","source":"https://www.github.com/ShardJuz135"}*//
+
 const Editor_Type = {
 	RICH: 0,
 	RAW: 1,
